@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drsanjayksamuel
+- 👋 Hi, I’m Dr Sanjay Kumar Samuel
 - 👀 I’m interested in Database programming with Python
 - 🌱 I’m currently learning Django,Tkinter
 - 💞️ I’m looking to collaborate on eGovernance project
